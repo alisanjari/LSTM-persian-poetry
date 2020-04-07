@@ -1,5 +1,3 @@
-# LSTM-persian-poetry
-
 
 # LSTM for persian poetry
 
